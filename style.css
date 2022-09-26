@@ -26,6 +26,8 @@ nav{
 
 }
 
+
+
 #icon{
     color: white;
     font-size: 30px;
@@ -62,6 +64,7 @@ nav{
     padding: 20px;
     border-radius: 20px;
     color: red;
+    font-size: bold;
 }
 .view-btn{
     color: white;
@@ -72,7 +75,6 @@ nav{
     background-color: #34495e;
     border: none;
 }
-
 
 
 @media screen and (max-width:900px) {
@@ -98,7 +100,7 @@ nav{
 
     nav{
         height: 60px;
-        width: 70%;
+        width: 100%;
         
     }
     .textnav{

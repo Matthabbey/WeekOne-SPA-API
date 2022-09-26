@@ -38,8 +38,8 @@ async function peopleData(){
 
             <div id='profileInfo${i}' class="profile"> 
 
-                <p>Name: ${data.name} </p>
-                <p>Height: ${data.height} </p>
+                <h2>Name: ${data.name} </h2>
+                <h4>Height: ${data.height} </h4>
                 <p>Gender: ${data.gender} </p>
             </div>
         </div>
